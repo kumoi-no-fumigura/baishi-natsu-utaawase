@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/baishi-natsu-utaawase",
  "yomi": "ばいしないしんのうけなつうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（九番）",
+  "era": "未詳",
+  "author": "禖子内親王家",
+  "desc": "禖子内親王の家の歌合。時鳥を暁・昼・夕暮・夜中の声に分けた題に、小鷹狩・擣衣・露・雁・霧を加えて九番を番え、中務・美作・小式部・武蔵・出雲らが詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
